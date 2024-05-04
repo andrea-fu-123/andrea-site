@@ -1,0 +1,8 @@
+.topBar {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center; /* Align children to the right horizontally */
+    align-items: center; /* Align children vertically in the center */
+    background: #eeeeee
+  }
