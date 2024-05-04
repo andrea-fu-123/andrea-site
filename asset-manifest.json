@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andrea-site/static/css/main.944cee19.css",
-    "main.js": "/andrea-site/static/js/main.7795248a.js",
+    "main.js": "/andrea-site/static/js/main.5c8e7286.js",
     "static/js/453.f1fb8f26.chunk.js": "/andrea-site/static/js/453.f1fb8f26.chunk.js",
     "static/media/5FE78265-C4D4-446D-A134-7CF36D918D8D.mp4": "/andrea-site/static/media/5FE78265-C4D4-446D-A134-7CF36D918D8D.cc4de4e5c281d2748fb3.mp4",
     "static/media/roboto-latin-500-normal.woff2": "/andrea-site/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -63,11 +63,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/andrea-site/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/andrea-site/index.html",
     "main.944cee19.css.map": "/andrea-site/static/css/main.944cee19.css.map",
-    "main.7795248a.js.map": "/andrea-site/static/js/main.7795248a.js.map",
+    "main.5c8e7286.js.map": "/andrea-site/static/js/main.5c8e7286.js.map",
     "453.f1fb8f26.chunk.js.map": "/andrea-site/static/js/453.f1fb8f26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.944cee19.css",
-    "static/js/main.7795248a.js"
+    "static/js/main.5c8e7286.js"
   ]
 }
