@@ -95,14 +95,15 @@ const Home = () => {
                     borderRadius: '10px',
                     boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.3)'
                 }}>
+                    <div style = {{ marginLeft: '5px' }}>
                     <Typography variant="h6" component="div">Full Stack React Budgeting App</Typography>
                     <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
                         Full stack budgeting React app. Uses Google Sign in to support user profiles. Uses Chart.js to display each month's spending and earnings.
                         Uses Summary table to keep track of the a spendable 80% of paycheck amount and total spent on each paycheck. Demo also viewable in full screen.
                     </Typography>
-                    <div style={{ maxWidth: '100%', height: 'auto' }}>
+                    <div style={{ maxWidth: '100%', height: 'auto'}}>
                         <video
-                            style={{ width: '30%', height: '30%' }}
+                            style={{ width: '30%', height: '30%', border: '1px solid #eeeeee' }}
                             autoplay
                             controls
                         >
@@ -110,6 +111,8 @@ const Home = () => {
                             Your browser does not support HTML video.
                         </video>
                     </div>
+                    </div>
+
                 </Box>
                 <Box sx={{
                     maxWidth: 900, marginTop: '50px', maxHeight: '40vh',
