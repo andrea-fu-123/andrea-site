@@ -22,6 +22,7 @@ import 'react-social-icons/linkedin'
 import { CiLocationOn } from "react-icons/ci";
 import Stack from '@mui/material/Stack';
 import video from './assets/5FE78265-C4D4-446D-A134-7CF36D918D8D.mp4';
+import hero from './assets/Screenshot 2024-05-04 at 10.49.13 AM.png'
 
 
 const card = (
@@ -129,7 +130,7 @@ const Home = () => {
                         </Typography>
                     </div>
                     <div style={{ maxWidth: '100%', height: 'auto' }}>
-                        <img src="https://i.ibb.co/hgvcZ7w/Screenshot-2024-05-03-at-4-50-34-PM.png" alt= "hero section" style={{ maxWidth: '100%', height: 'auto' }}></img>
+                        <img src={hero} alt= "hero section" style={{ maxWidth: '100%', height: 'auto' }}></img>
                         <img src="https://i.ibb.co/bQNRBtK/Screenshot-2024-05-03-at-4-53-50-PM.png" alt = "main-website" style={{ maxWidth: '100%', height: 'auto' }}></img>
                     </div>
 
