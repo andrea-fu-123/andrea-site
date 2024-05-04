@@ -24,11 +24,6 @@ import Stack from '@mui/material/Stack';
 import video from './assets/5FE78265-C4D4-446D-A134-7CF36D918D8D.mp4';
 
 
-
-// Define a functional component
-
-
-
 const card = (
     <React.Fragment>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', marginTop: '10px', }}>
