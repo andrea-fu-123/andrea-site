@@ -66,9 +66,10 @@ const Home = () => {
     return (
         <div>
             <Stack spacing={2}>
+                
                 <Box sx={{
                     maxWidth: 900, marginTop: '50px',
-                    maxHeight: '1000px',
+                    maxHeight: '500px',
                     marginBottom: '20px',
                     borderRadius: '10px',
                     boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.3)'
@@ -77,7 +78,7 @@ const Home = () => {
                     <CardMedia
                         component="img"
 
-                        height="200"
+                        height="250px"
                         image='https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
                     />
                     <div className='topBar'>
@@ -115,7 +116,7 @@ const Home = () => {
 
                 </Box>
                 <Box sx={{
-                    maxWidth: 900, marginTop: '50px', maxHeight: '40vh',
+                    maxWidth: 900, marginTop: '50px', maxHeight: '200px',
                     marginBottom: '20px',
                     borderRadius: '10px',
                     boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.3)'
