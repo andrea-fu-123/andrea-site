@@ -21,6 +21,8 @@ import 'react-social-icons/linkedin'
 
 import { CiLocationOn } from "react-icons/ci";
 import Stack from '@mui/material/Stack';
+import video from './assets/5FE78265-C4D4-446D-A134-7CF36D918D8D.mp4';
+
 
 
 // Define a functional component
@@ -109,7 +111,7 @@ const Home = () => {
                             autoplay
                             controls
                         >
-                            <source src="/5FE78265-C4D4-446D-A134-7CF36D918D8D.mp4" type="video/ogg"></source>
+                            <source src={video} type="video/mp4"/>
                             Your browser does not support HTML video.
                         </video>
                     </div>
